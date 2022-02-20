@@ -35,7 +35,6 @@ from .sql.ddl import DropTableComment as DropTableComment
 from .sql.ddl import SetColumnComment as SetColumnComment
 from .sql.ddl import SetConstraintComment as SetConstraintComment
 from .sql.ddl import SetTableComment as SetTableComment
-from .sql.ddl import SetConstraintComment as SetConstraintComment
 from .sql.ddl import sort_tables as sort_tables
 from .sql.ddl import (
     sort_tables_and_constraints as sort_tables_and_constraints,
